@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Vive les pommes
 Vive les poires
+=======
+Vive la Kpop
+Vive nekfeu
+Vive les pokémons
+>>>>>>> de0b2abfa22872542ef80a7ac90dc72182691724
