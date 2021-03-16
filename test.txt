@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Vive les pommes
 Vive les poires
 =======
@@ -6,4 +6,9 @@ Vive la Kpop
 Vive nekfeu
 Vive les pokémons
 Tu connais les yachts
->>>>>>> de0b2abfa22872542ef80a7ac90dc72182691724
+=======
+Bastien
+Vigné
+2001 08 30
+
+
